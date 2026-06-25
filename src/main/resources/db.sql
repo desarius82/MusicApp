@@ -48,8 +48,8 @@ CREATE TABLE IF NOT EXISTS skip_log
 );
 
 INSERT INTO songs (title, artist, stream_url)
-VALUES ('Sunny', 'Audio Library', 'https://download.samplelib.com/mp3/sample-15s.mp3'),
-       ('Acoustic Breeze', 'Audio Library', 'https://download.samplelib.com/mp3/sample-12s.mp3'),
-       ('Creative Minds', 'Audio Library', 'https://download.samplelib.com/mp3/sample-9s.mp3'),
-       ('Ukulele', 'Audio Library', 'https://download.samplelib.com/mp3/sample-6s.mp3'),
-       ('Energy', 'Audio Library', 'https://download.samplelib.com/mp3/sample-3s.mp3');
+VALUES ('For Our Friends', 'Telecasted', 'https://github.com/desarius82/MusicApp/releases/download/v1.0.0/For.Our.Friends.-.Telecasted.mp3'),
+       ('Paradise', 'Anno Domini Beats', 'https://github.com/desarius82/MusicApp/releases/download/v1.0.0/Paradise.-.Anno.Domini.Beats.mp3'),
+       ('Pawn', 'Golden Palms', 'https://github.com/desarius82/MusicApp/releases/download/v1.0.0/Pawn.-.The.Grey.Room._.Golden.Palms.mp3'),
+       ('Tonight Again', 'Rod Kim (feat. Mostly Moss)', 'https://github.com/desarius82/MusicApp/releases/download/v1.0.0/Tonight.Again.-.Rod.Kim.feat.Mostly.Moss.mp3'),
+       ('Two Things', 'Anno Domini Beats', 'https://github.com/desarius82/MusicApp/releases/download/v1.0.0/Two.Things.-.Anno.Domini.Beats.mp3');
